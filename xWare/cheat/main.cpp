@@ -9,7 +9,7 @@
 #include <thread>
 
 // fix triggerbot
-// fix crouch macro
+// fix crouch macroo
 
 Values values;
 
