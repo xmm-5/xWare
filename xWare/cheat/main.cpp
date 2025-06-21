@@ -8,6 +8,8 @@
 
 #include <thread>
 
+// fix triggerbot
+
 Values values;
 
 int __stdcall wWinMain(
